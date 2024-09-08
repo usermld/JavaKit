@@ -57,10 +57,10 @@ public class ServerWindowGUI extends JFrame implements ServerWindowView{
 
     private Component createButtons() {
         JPanel panel = new JPanel(new GridLayout(1, 2));
-        ImageIcon tick = new ImageIcon("C:\\Users\\user\\Desktop\\JavaKit\\seminar_2,3\\Server\\Png\\tick.png");
+        ImageIcon tick = new ImageIcon("C:\\Users\\user\\Desktop\\JavaKit\\seminar_2\\Server\\Png\\tick.png");
 //        btnStart = new JButton("Start");
         btnStart = new JButton(tick);
-        ImageIcon cross = new ImageIcon("C:\\Users\\user\\Desktop\\JavaKit\\seminar_2,3\\Server\\Png\\cross.png");
+        ImageIcon cross = new ImageIcon("C:\\Users\\user\\Desktop\\JavaKit\\seminar_2\\Server\\Png\\cross.png");
 //        btnStop = new JButton("Stop");
         btnStop = new JButton(cross);
 

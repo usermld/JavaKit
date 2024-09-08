@@ -1,4 +1,4 @@
-package DB;
+package seminar_3.DB;
 
 public interface DataBaseView {
     String showMessageDataBase(String message);

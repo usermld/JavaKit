@@ -1,7 +1,7 @@
 package Server;
 
 import clients.ClientController;
-import DB.DataBaseView;
+import seminar_3.DB.DataBaseView;
 
 import java.util.ArrayList;
 import java.util.List;

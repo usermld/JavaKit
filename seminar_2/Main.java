@@ -1,8 +1,8 @@
-import DB.DataBase;
 import Server.ServerWindowController;
 import Server.ServerWindowGUI;
 import clients.ClientController;
 import clients.ClientGUI;
+import seminar_3.DB.DataBase;
 
 public class Main {
     public static void main(String[] args) {

@@ -3,7 +3,7 @@ package DB;
 import java.io.*;
 
 public class DataBase implements DataBaseView{
-    private static final String LOG_FILE_PATH = "C:\\Users\\user\\Desktop\\JavaKit\\seminar_2";
+    private static final String LOG_FILE_PATH = "C:\\Users\\user\\Desktop\\JavaKit\\seminar_2\\log.txt";
 
     @Override
     public void writeLog(String txt) {

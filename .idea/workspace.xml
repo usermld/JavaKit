@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c428265a-1c64-47e9-89c7-51dea5a725d7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Lesson_1/ui_test" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_1/ui_test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_1/ui_test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_1/ui_test/src/SettingWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_1/ui_test/src/SettingWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar_1/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar_1/log.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Lesson_1/ui_test" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2l5nfK1z3piVTvdniBFCl1roySf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/JavaKit&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c428265a-1c64-47e9-89c7-51dea5a725d7" name="Changes" comment="" />
+      <created>1724478906695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724478906695</updated>
+    </task>
+    <servers />
+  </component>
+</project>
